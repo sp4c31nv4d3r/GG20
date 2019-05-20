@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1557082097,
+	"version": 1558350668,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -45,9 +45,9 @@
 		"images/verloren_de-sheet1.png",
 		"images/gewonnen_de-sheet0.png",
 		"images/gewonnen_de-sheet1.png",
-		"images/ablage_klein-sheet0.png",
+		"images/ablage_small-sheet0.png",
 		"images/lupe_quad-sheet0.png",
-		"images/ablage_groß-sheet0.png",
+		"images/ablage_big-sheet0.png",
 		"media/carddrop.m4a",
 		"media/carddrop.ogg",
 		"media/drawcard.m4a",
